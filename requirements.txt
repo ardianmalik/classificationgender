@@ -2,3 +2,5 @@ opencv-python
 pillow
 streamlit
 numpy
+opencv-python-headlessnumpy
+pandas
